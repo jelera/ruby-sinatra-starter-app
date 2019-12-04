@@ -52,4 +52,4 @@ A `config.ru` file for deployment. This is for users who wish to deploy their cu
 # Note
 You are allowed to fork my template, but not allowed to commit to my changes, you're more than welcome to suggest to me what gems or designs to add to make it more beginner friendly. I will be working on improving this starter app meanwhile, feel free to download it and mess with it, for now, it is my first release. If you decide to use this template for your project, do please tag me in your project. Feedback is appreciated.
 
-#### Copyright JHero Studios
+#### Forked from JHero Studios 
